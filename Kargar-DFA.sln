@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Answer-1", "Kargar-DFA\Answer-1.csproj", "{03F6C1AD-248D-4057-B8C1-449B6EF88B15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Answer-2", "Answer-2\Answer-2.csproj", "{DA53D3BA-6C17-4DF9-A34A-49EB8CE7D5FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedItems", "SharedItems\SharedItems.csproj", "{43AFE794-7E6E-4FC0-A481-F0434AB79C5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{03F6C1AD-248D-4057-B8C1-449B6EF88B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03F6C1AD-248D-4057-B8C1-449B6EF88B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03F6C1AD-248D-4057-B8C1-449B6EF88B15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA53D3BA-6C17-4DF9-A34A-49EB8CE7D5FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA53D3BA-6C17-4DF9-A34A-49EB8CE7D5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA53D3BA-6C17-4DF9-A34A-49EB8CE7D5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA53D3BA-6C17-4DF9-A34A-49EB8CE7D5FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43AFE794-7E6E-4FC0-A481-F0434AB79C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43AFE794-7E6E-4FC0-A481-F0434AB79C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43AFE794-7E6E-4FC0-A481-F0434AB79C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43AFE794-7E6E-4FC0-A481-F0434AB79C5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

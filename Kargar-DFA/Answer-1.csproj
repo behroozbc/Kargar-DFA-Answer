@@ -6,4 +6,8 @@
     <RootNamespace>Kargar_DFA</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SharedItems\SharedItems.csproj" />
+  </ItemGroup>
+
 </Project>
