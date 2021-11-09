@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
-    <RootNamespace>Kargar_DFA</RootNamespace>
+    <RootNamespace>Answer_2</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
